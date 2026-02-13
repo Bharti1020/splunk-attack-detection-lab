@@ -692,6 +692,6 @@
 2026-02-13T01:06:08.843091+05:30 kali sudo:   ... : TTY=pts/2 ; PWD=/home/... ; USER=root ; COMMAND=/usr/bin/su
 2026-02-13T01:06:08.848974+05:30 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ...(uid=1000)
 2026-02-13T01:06:08.855669+05:30 kali su[1626]: (to root) root on pts/3
-2026-02-13T01:06:08.856328+05:30 kali su[1626]: pam_unix(su:session): session opened for user root(uid=0) by bharti(uid=0)
+2026-02-13T01:06:08.856328+05:30 kali su[1626]: pam_unix(su:session): session opened for user root(uid=0) by ...(uid=0)
 2026-02-13T01:06:58.485306+05:30 kali sudo:     root : TTY=pts/3 ; PWD=/home/bharti ; USER=root ; COMMAND=/usr/bin/cp /var/log/auth.log /media/sf_splunkLogs/
 2026-02-13T01:06:58.485848+05:30 kali sudo: pam_unix(sudo:session): session opened for user root(uid=0) by ...(uid=0)
